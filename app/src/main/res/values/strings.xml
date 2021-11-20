@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movie Directory</string>
+    <string name="released">Released : %s</string>
+</resources>
